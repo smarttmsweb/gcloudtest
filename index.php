@@ -2,11 +2,8 @@
 <html>
 <body>
 
-<h1>My first PHP page on g cloude</h1>
-<!-- 
-<?php
-echo "Hello World!";
-?> -->
+<h1>My first PHP page on gcloude</h1>
+
 
 </body>
 </html>
